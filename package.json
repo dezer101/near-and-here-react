@@ -1,0 +1,30 @@
+{
+  "name": "near-and-here-travel-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server/index.js",
+    "start": "node server/index.js",
+    "build": "vite --configLoader runner build",
+    "preview": "vite --configLoader runner preview --host 127.0.0.1",
+    "api": "node server/index.js",
+    "format": "prettier --write \"src/**/*.{js,jsx,css}\" \"server/**/*.js\" package.json vite.config.js index.html README.md"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.0",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0",
+    "openai": "^5.12.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-leaflet": "^5.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.2",
+    "prettier": "^3.9.9",
+    "vite": "^7.1.5"
+  }
+}

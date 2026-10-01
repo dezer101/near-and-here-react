@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 820" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="700" y1="0" x2="700" y2="820" gradientUnits="userSpaceOnUse"><stop stop-color="#b9c3c1"/><stop offset=".62" stop-color="#edc497"/><stop offset="1" stop-color="#d98861"/></linearGradient>
+    <linearGradient id="hill" x1="700" y1="430" x2="700" y2="820" gradientUnits="userSpaceOnUse"><stop stop-color="#8b644a"/><stop offset="1" stop-color="#473c35"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1400v820H0z"/><circle cx="1100" cy="181" r="67" fill="#f6dfb6" opacity=".9"/>
+  <path d="M0 511c174-65 299-60 449-9 149 51 290 41 438-30 196-94 330-41 513 13v335H0V511Z" fill="#ab7957" opacity=".7"/>
+  <path d="M0 621c226-93 357-60 532-16 175 43 301 12 449-51 143-60 286-48 419 10v256H0V621Z" fill="url(#hill)"/>
+  <path d="m450 474 244-122 251 122v42H450v-42Z" fill="#dcc19a"/><path d="M474 516h450v26H474z" fill="#b99870"/><path d="M505 457h388v20H505z" fill="#f0dcb9"/>
+  <g fill="#e4cba3"><path d="M519 479h31v116h-31zM584 479h31v103h-31zM649 479h31v91h-31zM714 479h31v96h-31zM779 479h31v107h-31zM844 479h31v116h-31z"/><path d="m508 450 6-12h379l6 12H508ZM494 597h410v15H494z"/></g>
+  <text x="72" y="88" fill="#fbf4e5" font-family="Georgia,serif" font-size="17" letter-spacing="5">NEAR &amp; HERE · A MOMENT AWAY</text>
+  <text x="72" y="745" fill="#fbf4e5" font-family="Georgia,serif" font-size="32" letter-spacing="3">ATHENS, GREECE</text>
+</svg>
